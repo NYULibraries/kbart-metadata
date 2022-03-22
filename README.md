@@ -5,6 +5,7 @@ This repository contains KBART metadata files describing NYU Libraries-produced 
 The Python script used to create KBART metadata produces two files: a NISO-compliant KBART and an OCLC KBART. The files are named as follows:
 
 nyu_oclc_awdl_YYYY-MM-DD.txt
+
 nyu_global_awdl_YYYY-MM-DD.txt
 
 ## modifying jupyter notebook
